@@ -1,0 +1,9 @@
+python-dotenv
+langchain-google-genai
+langchain
+langchain_community
+google-generativeai
+vertexai
+streamlit
+pandas
+openpyxl

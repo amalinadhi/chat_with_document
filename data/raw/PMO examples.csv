@@ -1,0 +1,6 @@
+Task,Priority,Owner,Status,Start date,Expected End date,Actual End date,Milestone,Deliverable,Notes
+Requirements Gathering,P0,Eka,Completed,2024-05-21,2024-05-31,2024-05-24,,,
+Ingest Data,P0,Adi,Completed,2024-06-01,2024-06-14,2024-06-18,,,
+Model Research,P1,Budi,In progress,2024-06-15,2024-06-22,,,,
+Modeling,P2,Budi,Not started,2024-06-22,2024-06-28,,,,
+Web App Development,P3,Candra,In progress,2024-06-15,2024-06-28,,,,

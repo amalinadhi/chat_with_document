@@ -1,0 +1,5 @@
+Task,Priority,Owner,Status,Start date,End date,Milestone,Deliverable,Notes
+Ingest Data,P0,Adi,Completed,6/1/2024,6/14/2024,,,
+Model Research,P1,Budi,In progress,6/15/2024,6/22/2024,,,
+Modeling,P2,Budi,Not started,6/22/2024,6/28/2024,,,
+Web App Development,P3,Candra,In progress,6/15/2024,6/28/2024,,,
